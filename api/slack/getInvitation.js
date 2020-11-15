@@ -1,11 +1,10 @@
 const fetch = require('isomorphic-unfetch')
-const FormData = require('form-data')
 
 module.exports = async (req, res) => {
   const { email } = req.body
 
   try {
-    const body = new FormData()
+    const body = new URLSearchParams()
 
     body.append('email', email)
 
@@ -13,7 +12,7 @@ module.exports = async (req, res) => {
       method: 'POST',
       headers: {
         via: 'Seia-Soto; comduck-web',
-        'Content-Type': 'multipart/form-data; charset=UTF-8'
+        'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8'
       },
       body
     })
