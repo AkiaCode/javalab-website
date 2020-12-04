@@ -5,11 +5,12 @@
 JavaLab은 JAVA, C++, C# 프로그래밍, 웹개발 스터디 커뮤니티입니다. 개발 관련한 대화는 어떤 주제든 환영입니다.
 
 1. 공식 카페: https://cafe.naver.com/hellosharp
-2. 부설 오픈채팅방: https://open.kakao.com/o/gKLIOss
-3. 슬랙 채팅방: http://comduck.com/slack
-4. 디스코드 채팅방: http://comduck.com/discord
-5. 정모방: https://open.kakao.com/o/ghK6Lqrb
-6. 텔레그램방: https://t.me/comduck
+2. 메인 오픈채팅방: https://open.kakao.com/o/gGp80zJ
+3. 부설 오픈채팅방: https://open.kakao.com/o/gKLIOss
+4. 슬랙 채팅방: http://comduck.com/slack
+5. 디스코드 채팅방: http://comduck.com/discord
+6. 정모방: https://open.kakao.com/o/ghK6Lqrb
+7. 텔레그램방: https://t.me/comduck
 
 ----
 
